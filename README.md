@@ -42,7 +42,7 @@ Menambahkan variable pada program.
 ![img9!](img/ss9.png)
 
 Untuk mengaksesnya gunakan URL:
-http://localhost/lab7_php_dasar/php_dasar.php?nama=%20AdityaBani
+http://localhost/lab7_php_dasar/php_dasar.php?nama=%20dheagitawijaya
 
 ![img10!](img/ss10.png)
 
